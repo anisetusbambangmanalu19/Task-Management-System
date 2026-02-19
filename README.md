@@ -1,5 +1,3 @@
-Siap bro. Ini versi README yang sederhana, jelas, dan sesuai dengan yang sudah kita buat.
-
 ---
 
 # Task Management System
