@@ -1,5 +1,3 @@
----
-
 # Task Management System
 
 Aplikasi manajemen proyek dan task berbasis web yang dibuat menggunakan Golang (Gin) sebagai backend dan React (Vite) sebagai frontend. Sistem ini mendukung autentikasi menggunakan JWT serta relasi database PostgreSQL.
